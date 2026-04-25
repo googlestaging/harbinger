@@ -1352,9 +1352,9 @@ ldapdomaindump==0.10.0 \
     --hash=sha256:3797259596df7a5e1fda98388c96b1d94196f5da5551f1af1aaeedda0c9f5a11 \
     --hash=sha256:cbc66b32a7787473ffd169c5319acde46c02fdc9d444556e6448e0def91d3299
     # via impacket
-litellm==1.75.8 \
-    --hash=sha256:0bf004488df8506381ec6e35e1486e2870e8d578a7c3f2427cd497558ce07a2e \
-    --hash=sha256:92061bd263ff8c33c8fff70ba92cd046adb7ea041a605826a915d108742fe59e
+litellm==1.83.7 \
+    --hash=sha256:5784a1d9a9a4a8acd6ca1e347003a5e2e1b3c749b4d41e7da4904577adade111 \
+    --hash=sha256:e2f2cb99df2e2b2eab63f1354faa45c88dd7c8d40c18eb648afb1b349c689633
     # via rigging
 logfire==3.20.0 \
     --hash=sha256:561ea5f197f4c3a4e521e893f35535b955fc22592fd6cbd5901434c5ad16226d \
