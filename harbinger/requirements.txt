@@ -3026,9 +3026,9 @@ sniffio==1.3.1 \
     # via
     #   anyio
     #   openai
-sqladmin==0.21.0 \
-    --hash=sha256:2b1802c49bdd3128c6452625705693cf32d5d33e7db30e63f409bd20a9c05b53 \
-    --hash=sha256:cb455b79eb79ef7d904680dd83817bf7750675147400b5b7cc401d04bda7ef2c
+sqladmin==0.25.1 \
+    --hash=sha256:6ee6dae1b356820e91b1940322ac7fde4c0ea5ff0774b32796be98601c7247df \
+    --hash=sha256:76b95c4a8bf7e7cbe2cd7451053d2f0023e7c4be0efd15687d647597b47aeb4f
     # via harbinger (pyproject.toml)
 sqlakeyset==2.0.1746777265 \
     --hash=sha256:86c81292b8fed283357509a9c0fa10b057b953e8ab7ed85e290b2766d1e7ef84 \
